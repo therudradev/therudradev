@@ -6,7 +6,7 @@ I'm a passionate developer interested in AI/ML, Web Development, DevOps, and bui
 ### 🚀 Currently Working On
 - AI/ML project
 
-### 📘 Currently Learning
+### 🌱 Currently Learning
 - DevOps (CI/CD, Docker, Kubernetes)
 - DSA in Java
 - Python & Data Science
